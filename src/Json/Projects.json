@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Project 1: E-commerce Website",
+    "description": "A fully functional e-commerce website built using React, Node.js, and MongoDB.",
+    "image": "navPhoto.jpg",
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "github": "https://github.com/username/project1",
+    "live": "https://project1.com"
+  },
+  {
+    "id": 2,
+    "title": "Project 2: Personal Blog",
+    "description": "A personal blog built using WordPress and customized with a unique theme.",
+    "image": "navPhoto.jpg",
+    "technologies": ["WordPress", "HTML", "CSS"],
+    "github": "",
+    "live": "https://blog.com"
+  },
+  {
+    "id": 3,
+    "title": "Project 3: Mobile App",
+    "description": "A mobile app built using React Native and Expo.",
+    "image": "navPhoto.jpg",
+    "technologies": ["React Native", "Expo"],
+    "github": "https://github.com/username/project3",
+    "live": ""
+  },
+  {
+    "id": 4,
+    "title": "Project 4: Web Scraper",
+    "description": "A web scraper built using Python and BeautifulSoup.",
+    "image": "navPhoto.jpg",
+    "technologies": ["Python", "BeautifulSoup"],
+    "github": "https://github.com/username/project4",
+    "live": ""
+  },
+  {
+    "id": 5,
+    "title": "Project 5: Machine Learning Model",
+    "description": "A machine learning model built using TensorFlow and Keras.",
+    "image": "navPhoto.jpg",
+    "technologies": ["TensorFlow", "Keras"],
+    "github": "https://github.com/username/project5",
+    "live": ""
+  }
+]
